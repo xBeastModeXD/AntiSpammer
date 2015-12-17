@@ -1,0 +1,2 @@
+# AntiSpammer
+Secure the chat!
